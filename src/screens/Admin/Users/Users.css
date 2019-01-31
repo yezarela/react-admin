@@ -1,0 +1,11 @@
+.root {
+  width: 100%;
+}
+
+.tableWrapper {
+  overflow-x: auto;
+}
+
+.table {
+  margin-top: 15px;
+}

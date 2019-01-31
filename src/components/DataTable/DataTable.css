@@ -1,0 +1,14 @@
+.root {
+  width: 100%;
+}
+.tableWrapper {
+  overflow-x: auto;
+}
+
+.actions {
+  text-align: center !important;
+}
+
+.actions span svg {
+  display: none;
+}
