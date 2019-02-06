@@ -5,9 +5,9 @@ bootstrapped with [Create React App](https://github.com/facebook/create-react-ap
 
 ## Prerequisites
 
-- Node.js
-- [Typescript]("https://github.com/Microsoft/TypeScript")
-- [Firebase CLI]("https://github.com/firebase/firebase-tools")
+- [Node.js](https://nodejs.org/en)
+- [Typescript](https://github.com/Microsoft/TypeScript)
+- [Firebase CLI](https://github.com/firebase/firebase-tools)
 
 ## Development
 
